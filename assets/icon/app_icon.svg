@@ -1,0 +1,14 @@
+<svg width="108" height="108" viewBox="0 0 108 108" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="108" height="108" rx="24" fill="white"/>
+  
+  <!-- Wallet -->
+  <rect x="24" y="36" width="60" height="40" rx="8" fill="#EF5350"/>
+  
+  <!-- Money Bills -->
+  <rect x="28" y="28" width="44" height="8" rx="2" fill="#FFFFFF"/>
+  <rect x="32" y="24" width="44" height="8" rx="2" fill="#FFFFFF"/>
+  
+  <!-- Money Symbol -->
+  <text x="42" y="62" font-family="Arial" font-size="20" font-weight="bold" fill="white">R$</text>
+</svg>
