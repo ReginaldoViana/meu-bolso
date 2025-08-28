@@ -31,6 +31,44 @@ Meu Bolso é um aplicativo que ajuda você a controlar seus gastos diários de f
 - Modo escuro
 - Exportação de dados
 
-## 📝 Licença
+## � Como Executar
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### Pré-requisitos
+
+- Flutter (versão 3.0.0 ou superior)
+- Dart (versão 3.0.0 ou superior)
+- Git
+
+### Passo a passo
+
+1. Clone o repositório
+```bash
+git clone https://github.com/ReginaldoViana/meu-bolso.git
+```
+
+2. Entre na pasta do projeto
+```bash
+cd meu-bolso
+```
+
+3. Instale as dependências
+```bash
+flutter pub get
+```
+
+4. Execute o projeto
+```bash
+flutter run
+```
+
+### Comandos Úteis
+
+- Para executar os testes:
+```bash
+flutter test
+```
+
+- Para gerar o ícone do app:
+```bash
+dart run bin/generate_simple_icon.dart
+```
